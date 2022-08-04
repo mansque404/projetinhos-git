@@ -1,0 +1,16 @@
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.exe.config
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.exe
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.pdb
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.AssemblyReference.cache
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.CoreCompileInputs.cache
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.exe
+C:\Users\Mahanscoe\source\repos\CalculadorinhaDosGuriBemBOm\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.pdb
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.exe.config
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.exe
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\bin\Debug\CalculadorinhaDosGuriBemBOm.pdb
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.AssemblyReference.cache
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.csproj.CoreCompileInputs.cache
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.exe
+C:\Users\Mahanscoe\source\repos\CalculadoraIMCJuntoComAgua\CalculadorinhaDosGuriBemBOm\obj\Debug\CalculadorinhaDosGuriBemBOm.pdb
